@@ -1,5 +1,5 @@
 # -PaddleSeg-
-基于PaddleSeg的肺部图像分割
+【AI达人创造营第二期】 基于PaddleSeg的肺部图像分割
 
 ## 一、项目背景
 
